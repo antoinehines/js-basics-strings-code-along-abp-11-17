@@ -1,1 +1,3 @@
-// Write your code in this file!
+const currentUser = 'Antoine';
+
+const welcomeMessage = 'Welcome to Flatbook,  Antoine ';
